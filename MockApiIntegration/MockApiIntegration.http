@@ -1,6 +1,3 @@
 @MockApiIntegration_HostAddress = http://localhost:5082
 
-GET {{MockApiIntegration_HostAddress}}/weatherforecast/
-Accept: application/json
-
 ###

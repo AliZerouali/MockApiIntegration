@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Personal Projects\\MockApiIntegration\\MockApiIntegration\\MockApiIntegration\\MockApiIntegration.csproj",
+      "projectUniqueName": "C:\\Personal Projects\\MockApiIntegration\\MockApiIntegration\\MockApiIntegration\\MockApiIntegration\\MockApiIntegration.csproj",
       "projectName": "MockApiIntegration",
-      "projectPath": "C:\\Personal Projects\\MockApiIntegration\\MockApiIntegration\\MockApiIntegration\\MockApiIntegration.csproj",
+      "projectPath": "C:\\Personal Projects\\MockApiIntegration\\MockApiIntegration\\MockApiIntegration\\MockApiIntegration\\MockApiIntegration.csproj",
       "packagesPath": "C:\\Users\\zerou\\.nuget\\packages\\",
-      "outputPath": "C:\\Personal Projects\\MockApiIntegration\\MockApiIntegration\\MockApiIntegration\\obj\\",
+      "outputPath": "C:\\Personal Projects\\MockApiIntegration\\MockApiIntegration\\MockApiIntegration\\MockApiIntegration\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zerou\\AppData\\Roaming\\NuGet\\NuGet.Config",

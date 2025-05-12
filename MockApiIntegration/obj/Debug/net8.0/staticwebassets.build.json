@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iBVERBMOvQLDyi5Niv9BigArsy0IEkg7uLOu31nKz9Q=",
+  "Source": "MockApiIntegration",
+  "BasePath": "_content/MockApiIntegration",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
